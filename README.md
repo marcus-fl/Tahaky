@@ -6,6 +6,6 @@
   
   
 * **Plánované taháky:**
- * Programování
- * Webové aplikace
- * HTML & CSS
+  * Programování
+  * Webové aplikace
+  * HTML & CSS
