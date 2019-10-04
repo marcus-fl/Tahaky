@@ -1,2 +1,2 @@
 # Tahaky
-* * Zde budou mé taháky na různé předměty, takže dej follow!
+** Zde budou mé taháky na různé předměty, takže dej follow!
