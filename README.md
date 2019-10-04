@@ -1,2 +1,3 @@
 # Tahaky
-* Seznam dostupných taháků: * Počítačové sítě
+* **Seznam dostupných taháků:**
+  * Počítačové sítě
